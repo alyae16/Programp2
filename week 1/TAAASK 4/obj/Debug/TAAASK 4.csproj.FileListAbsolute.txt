@@ -1,0 +1,7 @@
+C:\Users\user\Documents\pp2\week 1\TAAASK 4\bin\Debug\TAAASK 4.exe.config
+C:\Users\user\Documents\pp2\week 1\TAAASK 4\bin\Debug\TAAASK 4.exe
+C:\Users\user\Documents\pp2\week 1\TAAASK 4\bin\Debug\TAAASK 4.pdb
+C:\Users\user\Documents\pp2\week 1\TAAASK 4\obj\Debug\TAAASK 4.csprojAssemblyReference.cache
+C:\Users\user\Documents\pp2\week 1\TAAASK 4\obj\Debug\TAAASK 4.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\pp2\week 1\TAAASK 4\obj\Debug\TAAASK 4.exe
+C:\Users\user\Documents\pp2\week 1\TAAASK 4\obj\Debug\TAAASK 4.pdb
